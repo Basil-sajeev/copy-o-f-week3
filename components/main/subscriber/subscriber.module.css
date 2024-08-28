@@ -76,10 +76,10 @@ min-width: 50px;
 
 
 .sub2{
-    background-color: #E21E26;
+    background-color: #E21E26 !important;
     gap: 0px;
     opacity: 0px;
-    display: flex !important;    
+    display: flex ;    
 }
 
 .sub2 p{
