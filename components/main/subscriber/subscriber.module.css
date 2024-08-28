@@ -79,7 +79,7 @@ min-width: 50px;
     background-color: #E21E26;
     gap: 0px;
     opacity: 0px;
-    display: flex;    
+    display: flex !important;    
 }
 
 .sub2 p{
