@@ -8,7 +8,6 @@ import Subscriber from "../../components/main/subscriber/subscriber";
 import Locations from "../../components/main/locations/locations";
 import Questions from "../../components/main/questions/questions";
 import Steps from "../../components/main/steps/steps";
-import "@/styles/globals.css";
 
 
 
