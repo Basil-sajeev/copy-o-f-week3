@@ -17,7 +17,7 @@ const Subscriber:React.FC = () => {
              </div>
              <div className={styles.sub2}>
                  <div className={styles.sub21}> <Image src="images/Rectangle.png"alt={'phone'} width={231} height={432} id="phone"/>
-                     <div id="numberm"> <input type="text" placeholder="Enter phonenumber" id="number" />
+                     <div id="numberm">
                          <button className={styles.bt}>Get the link</button></div>
                  </div>
                  <div className={styles.sub22}><div><p>Enter your number and receive a direct link to download the app</p></div>
